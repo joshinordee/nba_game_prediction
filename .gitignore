@@ -1,0 +1,6 @@
+best_xgb_model.pkl
+high_correlations.csv
+extracted_nba_game_data.csv
+venv/
+__pycache__/
+.ipynb_checkpoints/

@@ -105,5 +105,5 @@ IDE, select the `venv` environment as the kernel, and run all cells
 > If your IDE doesn't list the `venv` kernel, point it at
 > `venv/bin/python` inside the project folder directly.
 
-The dataset (`team_traditional.csv`) is included in the repo, so no additional
-downloads are required.
+The dataset (`data/team_traditional.csv`) is included in the repo, so no
+additional downloads are required.
